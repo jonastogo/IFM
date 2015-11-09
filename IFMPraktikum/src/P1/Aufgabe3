@@ -1,0 +1,13 @@
+Entwicklungsumgebung:
+	- Eclipse
+	- Netbeans etc.
+	- zum Entwickeln von Software
+	- Compiler und JVM integriert
+	- zusätzliche Tools welche das Programmieren erleichtern (Window Builder, Debugger, etc.)
+	- Umgebung mit Texteditor, Compiler, Debugger, Formatierungsfunktion
+	
+Java Compiler:
+	- Übersetzt Quellcode in Java-Bytecode (.java -> .class)
+	- Optimiert den Programmcode
+	- Kontrolliert den Code auf Fehler
+	
